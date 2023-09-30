@@ -312,7 +312,10 @@ export const Aliases: {[alias: string]: string} = {
 	ogerponfiretera: "Ogerpon-Hearthflame-Tera",
 	ogerponwater: "Ogerpon-Wellspring",
 	ogerponwatertera: "Ogerpon-Wellspring-Tera",
-	
+	ursalunab: "Ursaluna-Bloodmoon",
+	calys: "Calyrex-Shadow",
+	calyi: "Calyrex-Ice",
+		
 	// base formes
 	nidoranfemale: "Nidoran-F",
 	nidoranmale: "Nidoran-M",
@@ -757,6 +760,7 @@ export const Aliases: {[alias: string]: string} = {
 	dogars: "Koffing",
 	don: "Groudon",
 	doom: "Houndoom",
+	dozo: "Dondozo",
 	drill: "Excadrill",
 	driller: "Excadrill",
 	dug: "Dugtrio",
